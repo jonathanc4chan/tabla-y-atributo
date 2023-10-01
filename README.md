@@ -1,7 +1,7 @@
 # tabla-y-atributo
 
 1) Tabla "Material":
-2) 
+ 
 Atributos:
 
 id (Clave primaria, tipo: int)
